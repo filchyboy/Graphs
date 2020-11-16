@@ -1,6 +1,5 @@
-"""
-Simple graph implementation
-"""
+# I neglected to do proper commenting on my progress and got lost. Started over.
+
 from util import Stack, Queue  # These may come in handy
 
 class Graph:
